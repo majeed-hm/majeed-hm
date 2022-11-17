@@ -16,9 +16,9 @@ Here is a list of tools and technologies that I use daily:
 
 Here is a list of previously used tools & technologies:
 
-- **[C Sharp][csharp]** and **[Shell script][shell]** 
+- **[C Sharp][csharp]** and **Shell script** 
 - **[NetBeans][netbeans], [JDeveloper][jdeveloper], [Visual Studio][visual-studio]** and **[DreamWeaver][dreamWeaver]**
-- **[Hudson][hudson], [FindBugs][findBugs], [Crucible][crucible]** and **[Enterprise Architect][enterprise-architect]**
+- **[FindBugs][findBugs], [Crucible][crucible]** and **[Enterprise Architect][enterprise-architect]**
 
 ### Technical skills 
 
@@ -48,31 +48,29 @@ Here is a list of previously used tools & technologies:
 
 
 [css]: https://www.w3.org/Style/CSS/Overview.en.html
-[jsf]: 
-[primefaces]: 
-[xhtml]: 
+[jsf]: https://jakarta.ee/specifications/faces/
+[primefaces]: https://www.primefaces.org/
+[xhtml]: https://www.w3.org/TR/xhtml-basic/
 [css]: https://www.w3.org/Style/CSS/Overview.en.html
 [sass]: https://sass-lang.com
 [java]: https://www.java.com/en/
-[hibernate]: 
+[hibernate]: https://hibernate.org/
 [spring]: https://spring.io
 [mysql]: https://www.mysql.com
-[microsoft-sql-server]: 
-[oracle]: 
-[eclipse]: 
-[axonivy]: 
-[windows]: 
+[microsoft-sql-server]: https://www.microsoft.com/en-us/sql-server/
+[oracle]: https://www.oracle.com/database/
+[eclipse]: https://www.eclipse.org/
+[axonivy]: https://www.axonivy.com/
+[windows]: https://www.microsoft.com/en-us/windows
 [ubuntu]: https://ubuntu.com
 [jenkins]: https://www.jenkins.io
-[circleci]: 
+[circleci]: https://circleci.com/
 [docker]: https://www.docker.com
-[csharp]: 
-[shell]: 
-[netbeans]: 
-[jdeveloper]: 
-[visual-studio]: 
-[dreamWeaver]: 
-[hudson]: 
-[findBugs]: 
-[crucible]: 
-[enterprise-architect]: 
+[csharp]: https://learn.microsoft.com/en-us/dotnet/csharp/
+[netbeans]: https://netbeans.apache.org/
+[jdeveloper]: https://www.oracle.com/application-development/technologies/jdeveloper.html
+[visual-studio]: https://visualstudio.microsoft.com/
+[dreamWeaver]: https://www.adobe.com/products/dreamweaver.html
+[findBugs]: https://findbugs.sourceforge.net/
+[crucible]: https://www.atlassian.com/software/crucible
+[enterprise-architect]: https://www.sparxsystems.eu/
