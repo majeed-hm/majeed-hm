@@ -1,36 +1,74 @@
+# 👋 Welcome 👋 
+
+Hi, I am Majeed, and I live in Munich, Germany. I love to create Java/J2EE applications and I often do it for fun. I have been developing software since the mid-2000's, and some of my projects/contributions can be found on this page.
+
+## ✨ Tools & Technologies ✨ 
+
+Here is a list of tools and technologies that I use daily:
+
+- Front-end development using **[JSF][jsf], [Primefaces][primefaces], [XHTML][xhtml], [CSS][css]** and **[SASS][sass]**
+- Backend development using **[Java][java], [Hibernate][hibernate]** and **[Spring][spring]**
+- Database management using **[MySQL][mysql], [Microsoft SQL Server][microsoft-sql-server]** and **[Oracle][oracle]**
+- Developing code with **[Eclipse][eclipse]** and **[AXON iVY Designer][axonivy]**
+- Developing code on **[Windows][windows]** and **[Ubuntu][ubuntu]**
+- CI/CD of applications with **[Jenkins][jenkins]** and **[CircleCI][circleci]**
+- Hosting applications with scalable cloud architecture using **[Docker][docker]**
+
+Here is a list of previously used tools & technologies:
+
+- **[C Sharp][csharp]** and **[Shell script][shell]** 
+- **[NetBeans][netbeans], [JDeveloper][jdeveloper], [Visual Studio][visual-studio]** and **[DreamWeaver][dreamWeaver]**
+- **[Hudson][hudson], [FindBugs][findBugs], [Crucible][crucible]** and **[Enterprise Architect][enterprise-architect]**
+
 ### ✨ Technical skills ✨ 
 
-| Modeling languages / Tools | Programming languages | IDE |
-|---|---|---|
-| UML, Merise, IBM Rational Rose, Power Designer, Enterprise Architect | Java, JavaScript, C Sharp, SQL (SQLJ, OQL), PL/SQL, Shell script | Eclipse, AXON iVY Designer, NetBeans, JDeveloper, Visual Studio, DreamWeaver |
+| Modeling languages / Tools |
+|---|
+| UML, Merise, IBM Rational Rose, Power Designer, Enterprise Architect |
 
 | J2EE | Frameworks | J2EE Patterns |
 |---|---|---|
 | Servlet, JSP, EJB2, EJB3, JDBC, RMI, Jakarta Tomcat, JBOSS (AS + JBPM), Oracle AS | Hibernate, Struts, JSF, Primefaces, XDoclet, JPOX, Log4J, JAAS, JacORB, FOP, Ant, Maven, Google Protocol Buffers | Composite view (Apache Tiles), View Helper, Business Delegate, Session Facade, Transfer Object, Data Access Object |
 
-| :leaves: www.spring.io :leaves: | SGBD | XML / Transformation |
-|---|---|---|
-| Spring (Framework, Web Flow, Web Services, AOP, Batch, for Android) | Oracle, MySQL, Microsoft SQL Server, HSQLDB, PosgresSQL, LocalDB, Access | XML/XSLT/XSD, SVG, SAX, DOM, XStream |
-
-| :computer: Operating systems :computer: | :bar_chart: Reporting Tools :bar_chart: | Virtualization |
-|---|---|---|
-| Linux (Ubuntu, OpenSUSE, Fedora), Windows | Windward Reports, Jasper Reports, PD4ML, Aspose | VirtualBox, QEMU, PearPC, VMware |
-
-| :arrows_counterclockwise: CI / Code-Review :arrows_counterclockwise: | :earth_africa: Web :earth_africa: |
+| :leaves: www.spring.io :leaves: | XML / Transformation |
 |---|---|
-| Hudson, Jenkins, Checkstyle, FindBugs, SonarQube, Crucible, CircleCI | HTML/CSS, Dojo, PHP, Apache, SoapUI, EasyPHP, Fiddler |
+| Spring (Framework, Web Flow, Web Services, AOP, Batch, for Android) | XML/XSLT/XSD, SVG, SAX, DOM, XStream |
 
-<!--
-**majeed-hm/majeed-hm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| :bar_chart: Reporting Tools :bar_chart: | Virtualization |
+|---|---|
+| Windward Reports, Jasper Reports, PD4ML, Aspose | VirtualBox, QEMU, PearPC, VMware |
 
-Here are some ideas to get you started:
+| :earth_africa: Web :earth_africa: |
+|---|
+| HTML/CSS, Dojo, PHP, Apache, SoapUI, EasyPHP, Fiddler |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Majeed's github stats](https://github-readme-stats.vercel.app/api?username=majeed-hm&show_icons=true)](https://github.com/majeed-hm/)
+
+[jsf]: 
+[primefaces]: 
+[xhtml]: 
+[css]: https://www.w3.org/Style/CSS/Overview.en.html
+[sass]: https://sass-lang.com
+[java]: https://www.java.com/en/
+[hibernate]: 
+[spring]: https://spring.io
+[mysql]: https://www.mysql.com
+[microsoft-sql-server]: 
+[oracle]: 
+[eclipse]: 
+[axonivy]: 
+[windows]: 
+[ubuntu]: https://ubuntu.com
+[jenkins]: https://www.jenkins.io
+[circleci]: 
+[docker]: https://www.docker.com
+[csharp]: 
+[shell]: 
+[netbeans]: 
+[jdeveloper]: 
+[visual-studio]: 
+[dreamWeaver]: 
+[hudson]: 
+[findBugs]: 
+[crucible]: 
+[enterprise-architect]: 
