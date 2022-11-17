@@ -8,19 +8,19 @@
 |---|---|---|
 | Servlet, JSP, EJB2, EJB3, JDBC, RMI, Jakarta Tomcat, JBOSS (AS + JBPM), Oracle AS | Hibernate, Struts, JSF, Primefaces, XDoclet, JPOX, Log4J, JAAS, JacORB, FOP, Ant, Maven, Google Protocol Buffers | Composite view (Apache Tiles), View Helper, Business Delegate, Session Facade, Transfer Object, Data Access Object |
 
-| www.spring.io | SGBD | XML / Transformation |
+| :leaves: www.spring.io :leaves: | SGBD | XML / Transformation |
 |---|---|---|
 | Spring (Framework, Web Flow, Web Services, AOP, Batch, for Android) | Oracle, MySQL, Microsoft SQL Server, HSQLDB, PosgresSQL, LocalDB, Access | XML/XSLT/XSD, SVG, SAX, DOM, XStream |
 
-| Pperating systems | Reporting Tools | Virtualization |
+| :computer: Operating systems :computer: | Reporting Tools | Virtualization |
 |---|---|---|
 | Linux (Ubuntu, OpenSUSE, Fedora), Windows | Windward Reports, Jasper Reports, PD4ML, Aspose | VirtualBox, QEMU, PearPC, VMware |
 
-| CI / Code-Review | Web |
+| :arrows_counterclockwise: CI / Code-Review :arrows_counterclockwise: | Web |
 |---|---|
-| Hudson, Jenkins, Checkstyle, FindBugs, SonarQube, Crucible | HTML/CSS, Dojo, PHP, Apache, SoapUI, EasyPHP, Fiddler |
+| Hudson, Jenkins, Checkstyle, FindBugs, SonarQube, Crucible, CircleCI | HTML/CSS, Dojo, PHP, Apache, SoapUI, EasyPHP, Fiddler |
 
-/*
+<!--
 **majeed-hm/majeed-hm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-*/
+-->
