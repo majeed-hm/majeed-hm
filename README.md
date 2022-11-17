@@ -12,11 +12,11 @@
 |---|---|---|
 | Spring (Framework, Web Flow, Web Services, AOP, Batch, for Android) | Oracle, MySQL, Microsoft SQL Server, HSQLDB, PosgresSQL, LocalDB, Access | XML/XSLT/XSD, SVG, SAX, DOM, XStream |
 
-| :computer: Operating systems :computer: | Reporting Tools | Virtualization |
+| :computer: Operating systems :computer: | :bar_chart: Reporting Tools :bar_chart: | Virtualization |
 |---|---|---|
 | Linux (Ubuntu, OpenSUSE, Fedora), Windows | Windward Reports, Jasper Reports, PD4ML, Aspose | VirtualBox, QEMU, PearPC, VMware |
 
-| :arrows_counterclockwise: CI / Code-Review :arrows_counterclockwise: | Web |
+| :arrows_counterclockwise: CI / Code-Review :arrows_counterclockwise: | :earth_africa: Web :earth_africa: |
 |---|---|
 | Hudson, Jenkins, Checkstyle, FindBugs, SonarQube, Crucible, CircleCI | HTML/CSS, Dojo, PHP, Apache, SoapUI, EasyPHP, Fiddler |
 
