@@ -22,29 +22,21 @@ Here is a list of previously used tools & technologies:
 
 ### Technical skills 
 
-| Modeling languages / Tools |
-|---|
-| UML, Merise, IBM Rational Rose, Power Designer, Enterprise Architect |
-
 | J2EE | Frameworks | J2EE Patterns |
 |---|---|---|
 | Servlet, JSP, EJB2, EJB3, JDBC, RMI, Jakarta Tomcat, JBOSS (AS + JBPM), Oracle AS | Hibernate, Struts, JSF, Primefaces, XDoclet, JPOX, Log4J, JAAS, JacORB, FOP, Ant, Maven, Google Protocol Buffers | Composite view (Apache Tiles), View Helper, Business Delegate, Session Facade, Transfer Object, Data Access Object |
 
-| :leaves: www.spring.io :leaves: | XML / Transformation |
-|---|---|
-| Spring (Framework, Web Flow, Web Services, AOP, Batch, for Android) | XML/XSLT/XSD, SVG, SAX, DOM, XStream |
+| :leaves: www.spring.io :leaves: | XML / Transformation | :earth_africa: Web :earth_africa: |
+|---|---|---|
+| Spring (Framework, Web Flow, Web Services, AOP, Batch, for Android) | XML/XSLT/XSD, SVG, SAX, DOM, XStream | HTML/CSS, Dojo, PHP, Apache, SoapUI, EasyPHP, Fiddler |
 
-| :bar_chart: Reporting Tools :bar_chart: | Virtualization |
+| :bar_chart: Reporting Tools :bar_chart: | Modeling languages / Tools |
 |---|---|
-| Windward Reports, Jasper Reports, PD4ML, Aspose | VirtualBox, QEMU, PearPC, VMware |
-
-| :earth_africa: Web :earth_africa: |
-|---|
-| HTML/CSS, Dojo, PHP, Apache, SoapUI, EasyPHP, Fiddler |
+| Windward Reports, Jasper Reports, PD4ML, Aspose | UML, Merise, IBM Rational Rose, Power Designer, Enterprise Architect |
 
 <br />
 
-[![Majeed's github stats](https://github-readme-stats.vercel.app/api?username=majeed-hm&show_icons=true)](https://github.com/majeed-hm/)
+[![Majeed's github stats](https://github-readme-stats.vercel.app/api?username=majeed-hm&show_icons=true&count_private=true)](https://github.com/majeed-hm)
 
 
 [css]: https://www.w3.org/Style/CSS/Overview.en.html
